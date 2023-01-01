@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://OlyaBukina.github.io/team-proj-ice-cream",
+  "homepage": "https://Serhii-Buha.github.io/team-proj-ice-cream-clone",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-proj-ice-cream/"
+    "build": "parcel build src/*.html --public-url /team-proj-ice-cream-clone/"
   },
   "repository": {
     "type": "git",
